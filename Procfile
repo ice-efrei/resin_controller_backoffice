@@ -1,1 +1,1 @@
-web: gunicorn resin.wsgi
+web: gunicorn resin_controller_backoffice.wsgi
